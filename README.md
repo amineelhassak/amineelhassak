@@ -10,7 +10,6 @@ I studied at **1337**, part of the **42 network**, specializing in **Science, Ma
 ### 🌐 Connect with Me
 [![Twitter](https://img.shields.io/twitter/follow/mathbib40755h?logo=twitter&style=for-the-badge)](https://twitter.com/mathbib40755h)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amine-el-hassak-a25a372a3/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/_.amine._15/)
 
 ---
 
