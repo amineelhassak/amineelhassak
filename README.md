@@ -1,3 +1,5 @@
+<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" height="35" /> Hello World! I'm Amine El Hassak
 
 <div align="center">
@@ -8,7 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=amineelhassak&label=Profile%20views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
+</div>
+
 ---
+
+<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="🎓" width="25" height="25" /> About Me
 
@@ -24,7 +30,11 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 - **System Architecture** - Designing scalable and maintainable software systems
 - **Database Design** - Creating robust data models and optimizing queries
 
+</div>
+
 ---
+
+<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="🌐" width="25" height="25" /> Let's Connect
 
@@ -43,7 +53,11 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
   </a>
 </div>
 
+</div>
+
 ---
+
+<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="25" height="25" /> Tech Stack & Tools
 
@@ -103,7 +117,11 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </div>
 
+</div>
+
 ---
+
+<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="25" height="25" /> GitHub Statistics
 
@@ -115,7 +133,11 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amineelhassak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </div>
 
+</div>
+
 ---
+
+<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="25" height="25" /> GitHub Trophies
 
@@ -123,7 +145,11 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
   <img src="https://github-profile-trophy.vercel.app/?username=amineelhassak&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
+</div>
+
 ---
+
+<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="25" height="25" /> Contribution Graph
 
@@ -131,7 +157,11 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amineelhassak&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF" alt="Contribution Graph" />
 </div>
 
+</div>
+
 ---
+
+<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="25" height="25" /> Current Focus
 
@@ -140,7 +170,11 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" alt="🔒" width="20" height="20" /> **Security Best Practices** - Implementing secure coding standards
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="📱" width="20" height="20" /> **Responsive Design** - Creating mobile-first user experiences
 
+</div>
+
 ---
+
+<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="25" height="25" /> Fun Facts
 
@@ -149,13 +183,21 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="20" height="20" /> Love solving **complex algorithmic problems**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20drinks/Hot%20Beverage.png" alt="☕" width="20" height="20" /> Coffee addict ☕
 
+</div>
+
 ---
+
+<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amineelhassak&theme=tokyonight" alt="Profile Details" />
 </div>
 
+</div>
+
 ---
+
+<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 <div align="center">
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="🤝" width="25" height="25" /> Open to Collaborations</h3>
@@ -164,8 +206,14 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Collaboration Message" />
 </div>
 
+</div>
+
 ---
+
+<div align="center" style="border: 2px solid #00D4FF; border-radius: 10px; padding: 15px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.05) 0%, rgba(0, 0, 0, 0.05) 100%);">
 
 <div align="center">
   <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="20" height="20" /> Star this repository if you found it helpful!</sub>
+</div>
+
 </div> 
