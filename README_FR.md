@@ -30,7 +30,19 @@ Je suis un **Développeur Full Stack** passionné avec une solide base en **Info
   - **Institution**: 1337 (Réseau 42)
   - **Programme**: Apprentissage Peer-to-Peer en Informatique
   - **Spécialisation**: Génie Logiciel, Administration Système et Développement d'Algorithmes
-  - **Projets Clés**: Programmation C, Scripting Shell, Programmation Réseau, Développement Web
+  - **Projets Clés**: 
+    - **Born2beroot** (125/125) - Administration système Linux et virtualisation
+    - **CPP Modules 00-09** (100/100 chacun) - Fondamentaux de programmation C++
+    - **Libft** (125/125) - Implémentation de bibliothèque C personnalisée
+    - **NetPractice** (100/100) - Configuration réseau et protocoles
+    - **Philosophers** (125/125) - Multi-threading et synchronisation
+    - **cub3d** (125/125) - Moteur graphique 3D utilisant le raycasting
+    - **ft_printf** (100/100) - Implémentation printf personnalisée
+    - **get_next_line** (125/125) - Lecture de fichiers et gestion mémoire
+    - **minishell** (120/125) - Implémentation shell avec parsing de commandes
+    - **minitalk** (125/125) - Communication inter-processus utilisant les signaux
+    - **push_swap** (125/125) - Optimisation d'algorithmes et tri
+    - **so_long** (125/125) - Développement de jeux 2D avec algorithmes de pathfinding
   - **Méthode d'Apprentissage**: Apprentissage basé sur les projets avec évaluation par les pairs
 
 ### 🚀 Ce que je fais
@@ -181,6 +193,49 @@ Je suis un **Développeur Full Stack** passionné avec une solide base en **Info
 - 📱 **Design Responsive** - Création d'expériences utilisateur mobile-first
 - 📊 **Science des Données et Analytics** - Exploiter la formation mathématique pour des solutions basées sur les données
 - 🧮 **Optimisation d'Algorithmes** - Appliquer des concepts mathématiques pour améliorer l'efficacité du code
+
+</div>
+
+---
+
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+
+## 🚀 Projets École 1337
+
+<div align="center">
+  <h3>🏆 Projets Complétés avec des Scores Parfaits</h3>
+</div>
+
+### 💻 **Système et Administration**
+- **Born2beroot** (125/125) - Administration système Linux, virtualisation et configuration serveur
+- **NetPractice** (100/100) - Configuration réseau, protocoles et sous-réseaux
+
+### 🔧 **Programmation de Base**
+- **Libft** (125/125) - Bibliothèque C personnalisée avec implémentation de fonctions standard
+- **ft_printf** (100/100) - Fonction printf personnalisée avec spécificateurs de format
+- **get_next_line** (125/125) - Lecture de fichiers avec gestion mémoire et buffer
+
+### 🎮 **Développement de Jeux**
+- **cub3d** (125/125) - Moteur graphique 3D utilisant le raycasting (style Wolfenstein 3D)
+- **so_long** (125/125) - Jeu 2D avec algorithmes de pathfinding et validation de carte
+
+### ⚡ **Algorithmes et Optimisation**
+- **push_swap** (125/125) - Optimisation d'algorithmes pour tri de piles avec opérations limitées
+- **Philosophers** (125/125) - Multi-threading, synchronisation et problème des philosophes
+
+### 🐚 **Shell et Programmation Système**
+- **minishell** (120/125) - Implémentation shell avec parsing de commandes, pipes et redirections
+- **minitalk** (125/125) - Communication inter-processus utilisant les signaux UNIX
+
+### 📚 **Programmation C++**
+- **CPP Modules 00-09** (100/100 chacun) - Fondamentaux C++, classes, templates et STL
+
+### 🏅 **Rangs d'Examen**
+- **Exam Rank 02-05** (100/100 chacun) - Défis de programmation avancés et résolution de problèmes
+
+<div align="center">
+  <p><strong>Total Projets Complétés:</strong> 20+ | <strong>Score Moyen:</strong> 98.5%</p>
+</div>
 
 </div>
 

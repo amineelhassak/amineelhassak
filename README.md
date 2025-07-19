@@ -48,7 +48,19 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
   - **Institution**: 1337 (42 Network)
   - **Program**: Peer-to-Peer Learning in Computer Science
   - **Specialization**: Software Engineering, System Administration, and Algorithm Development
-  - **Key Projects**: C Programming, Shell Scripting, Network Programming, Web Development
+  - **Key Projects**: 
+    - **Born2beroot** (125/125) - Linux system administration and virtualization
+    - **CPP Modules 00-09** (100/100 each) - C++ programming fundamentals
+    - **Libft** (125/125) - Custom C library implementation
+    - **NetPractice** (100/100) - Network configuration and protocols
+    - **Philosophers** (125/125) - Multi-threading and synchronization
+    - **cub3d** (125/125) - 3D graphics engine using raycasting
+    - **ft_printf** (100/100) - Custom printf implementation
+    - **get_next_line** (125/125) - File reading and memory management
+    - **minishell** (120/125) - Shell implementation with command parsing
+    - **minitalk** (125/125) - Inter-process communication using signals
+    - **push_swap** (125/125) - Algorithm optimization and sorting
+    - **so_long** (125/125) - 2D game development with pathfinding
   - **Learning Method**: Project-based learning with peer evaluation
 
 ### 🚀 What I Do
@@ -199,6 +211,49 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 - 📱 **Responsive Design** - Creating mobile-first user experiences
 - 📊 **Data Science & Analytics** - Leveraging mathematical background for data-driven solutions
 - 🧮 **Algorithm Optimization** - Applying mathematical concepts to improve code efficiency
+
+</div>
+
+---
+
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+
+## 🚀 1337 School Projects
+
+<div align="center">
+  <h3>🏆 Completed Projects with Perfect Scores</h3>
+</div>
+
+### 💻 **System & Administration**
+- **Born2beroot** (125/125) - Linux system administration, virtualization, and server setup
+- **NetPractice** (100/100) - Network configuration, protocols, and subnetting
+
+### 🔧 **Core Programming**
+- **Libft** (125/125) - Custom C library with standard functions implementation
+- **ft_printf** (100/100) - Custom printf function with format specifiers
+- **get_next_line** (125/125) - File reading with memory management and buffer handling
+
+### 🎮 **Game Development**
+- **cub3d** (125/125) - 3D graphics engine using raycasting (Wolfenstein 3D style)
+- **so_long** (125/125) - 2D game with pathfinding algorithms and map validation
+
+### ⚡ **Algorithms & Optimization**
+- **push_swap** (125/125) - Algorithm optimization for stack sorting with limited operations
+- **Philosophers** (125/125) - Multi-threading, synchronization, and dining philosophers problem
+
+### 🐚 **Shell & System Programming**
+- **minishell** (120/125) - Shell implementation with command parsing, pipes, and redirections
+- **minitalk** (125/125) - Inter-process communication using UNIX signals
+
+### 📚 **C++ Programming**
+- **CPP Modules 00-09** (100/100 each) - C++ fundamentals, classes, templates, and STL
+
+### 🏅 **Exam Rankings**
+- **Exam Rank 02-05** (100/100 each) - Advanced programming challenges and problem-solving
+
+<div align="center">
+  <p><strong>Total Projects Completed:</strong> 20+ | <strong>Average Score:</strong> 98.5%</p>
+</div>
 
 </div>
 
