@@ -178,22 +178,7 @@ Je suis un **Développeur Full Stack** passionné avec une solide base en **Info
 
 </div>
 
----
 
-<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
-
-## 🎯 Focus Actuel
-
-- 🔥 **Développement Full Stack** - Construction d'applications web modernes
-- 🚀 **Optimisation des Performances** - Rendre les applications plus rapides et efficaces
-- 🔒 **Bonnes Pratiques de Sécurité** - Implémentation de standards de codage sécurisés
-- 📱 **Design Responsive** - Création d'expériences utilisateur mobile-first
-- 📊 **Science des Données et Analytics** - Exploiter la formation mathématique pour des solutions basées sur les données
-- 🧮 **Optimisation d'Algorithmes** - Appliquer des concepts mathématiques pour améliorer l'efficacité du code
-
-</div>
-
----
 
 <div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
@@ -235,23 +220,6 @@ Je suis un **Développeur Full Stack** passionné avec une solide base en **Info
 </div>
 
 </div>
-
----
-
-<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
-
-## 💡 Faits Intéressants
-
-- 🎓 **Formation Double**: Diplômé de **SMI** (Mathématiques et Informatique) et **1337** (42 Network)
-- 🏛️ **Université**: Université Sidi Mohamed Ben Abdellah, Fès - Maroc
-- 🌍 Passionné par les contributions **open source**
-- 🧠 J'aime résoudre des **problèmes algorithmiques complexes**
-- 📊 **Formation Mathématique**: Base solide en mathématiques appliquées et informatique
-- ☕ Accro au café ☕
-
-</div>
-
----
 
 <div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
