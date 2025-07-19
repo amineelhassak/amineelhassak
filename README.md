@@ -237,22 +237,6 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 </div>
 
----
-
-<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
-
-## 💡 Fun Facts
-
-- 🎓 **Dual Education**: Graduated from both **SMI** (Mathematics & Computer Science) and **1337** (42 Network)
-- 🏛️ **University**: Sidi Mohamed Ben Abdellah University, Fez - Morocco
-- 🌍 Passionate about **open source** contributions
-- 🧠 Love solving **complex algorithmic problems**
-- 📊 **Mathematical Background**: Strong foundation in applied mathematics and computer science
-- ☕ Coffee addict ☕
-
-</div>
-
----
 
 <div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
