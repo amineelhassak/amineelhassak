@@ -20,18 +20,6 @@
 
 Je suis un **Développeur Full Stack** passionné avec une solide base en **Informatique** et **Mathématiques**. Je possède une **Licence en Mathématiques et Informatique (SMI)** de l'**[Université Sidi Mohamed Ben Abdellah](https://www.usmba.ac.ma/)** à Fès, Maroc, et j'ai obtenu mon diplôme de **[1337](https://1337.ma/)**, faisant partie du prestigieux **[Réseau 42](https://42.fr/)**, où je me suis spécialisé en **Sciences, Mathématiques et Informatique**.
 
-### 🎓 Formation Académique
-- **Licence en SMI** - Mathématiques et Informatique
-  - **Université**: Université Sidi Mohamed Ben Abdellah, Fès
-  - **Spécialisation**: Mathématiques Appliquées, Informatique et Technologies de l'Information
-  - **Matières Principales**: Mathématiques Avancées, Programmation, Algorithmes, Systèmes de Bases de Données, Génie Logiciel
-
-- **École 1337** - Partie du Réseau 42
-  - **Institution**: 1337 (Réseau 42)
-  - **Programme**: Apprentissage Peer-to-Peer en Informatique
-  - **Spécialisation**: Génie Logiciel, Administration Système et Développement d'Algorithmes
-  - **Méthode d'Apprentissage**: Apprentissage basé sur les projets avec évaluation par les pairs
-
 ### 🚀 Ce que je fais
 - **Développement Full Stack** - Construction d'applications web complètes du frontend au backend
 - **Résolution de Problèmes** - Résolution de défis algorithmiques complexes avec des solutions efficaces
