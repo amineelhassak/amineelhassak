@@ -30,19 +30,6 @@ Je suis un **Développeur Full Stack** passionné avec une solide base en **Info
   - **Institution**: 1337 (Réseau 42)
   - **Programme**: Apprentissage Peer-to-Peer en Informatique
   - **Spécialisation**: Génie Logiciel, Administration Système et Développement d'Algorithmes
-  - **Projets Clés**: 
-    - **Born2beroot** (125/125) - Administration système Linux et virtualisation
-    - **CPP Modules 00-09** (100/100 chacun) - Fondamentaux de programmation C++
-    - **Libft** (125/125) - Implémentation de bibliothèque C personnalisée
-    - **NetPractice** (100/100) - Configuration réseau et protocoles
-    - **Philosophers** (125/125) - Multi-threading et synchronisation
-    - **cub3d** (125/125) - Moteur graphique 3D utilisant le raycasting
-    - **ft_printf** (100/100) - Implémentation printf personnalisée
-    - **get_next_line** (125/125) - Lecture de fichiers et gestion mémoire
-    - **minishell** (120/125) - Implémentation shell avec parsing de commandes
-    - **minitalk** (125/125) - Communication inter-processus utilisant les signaux
-    - **push_swap** (125/125) - Optimisation d'algorithmes et tri
-    - **so_long** (125/125) - Développement de jeux 2D avec algorithmes de pathfinding
   - **Méthode d'Apprentissage**: Apprentissage basé sur les projets avec évaluation par les pairs
 
 ### 🚀 Ce que je fais
