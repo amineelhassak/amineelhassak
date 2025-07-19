@@ -10,7 +10,7 @@
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 🎓 من أنا
 
@@ -44,7 +44,7 @@
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 🌐 تواصل معي
 
@@ -67,7 +67,7 @@
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 🛠️ التقنيات والأدوات
 
@@ -131,7 +131,7 @@
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 📊 إحصائيات GitHub
 
@@ -147,7 +147,7 @@
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 🏆 جوائز GitHub
 
@@ -159,7 +159,7 @@
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 📈 رسم بياني للمساهمات
 
@@ -171,7 +171,7 @@
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 🎯 التركيز الحالي
 
@@ -186,7 +186,7 @@
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 💡 حقائق ممتعة
 
@@ -201,7 +201,7 @@
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amineelhassak&theme=tokyonight" alt="Profile Details" />
@@ -211,7 +211,7 @@
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 <div align="center">
   <h3>🤝 مفتوح للتعاون</h3>
@@ -224,7 +224,7 @@
 
 ---
 
-<div align="center" style="border: 2px solid #00D4FF; border-radius: 10px; padding: 15px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.05) 0%, rgba(0, 0, 0, 0.05) 100%);">
+<div align="center" style="border: 2px solid #87CEEB; border-radius: 10px; padding: 15px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.05) 0%, rgba(0, 0, 0, 0.05) 100%);">
 
 <div align="center">
   <sub>⭐ امنح نجمة لهذا المستودع إذا وجدته مفيداً!</sub>

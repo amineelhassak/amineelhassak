@@ -1,4 +1,4 @@
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 # 👋 Hello World! I'm Amine El Hassak
 
@@ -28,7 +28,7 @@
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 🎓 About Me
 
@@ -62,7 +62,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 🌐 Let's Connect
 
@@ -85,7 +85,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 🛠️ Tech Stack & Tools
 
@@ -149,7 +149,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 📊 GitHub Statistics
 
@@ -165,7 +165,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 🏆 GitHub Trophies
 
@@ -177,7 +177,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 📈 Contribution Graph
 
@@ -189,7 +189,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 🎯 Current Focus
 
@@ -204,7 +204,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 💡 Fun Facts
 
@@ -219,7 +219,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amineelhassak&theme=tokyonight" alt="Profile Details" />
@@ -229,7 +229,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 ---
 
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
+<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 <div align="center">
   <h3>🤝 Open to Collaborations</h3>
@@ -242,7 +242,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 ---
 
-<div align="center" style="border: 2px solid #00D4FF; border-radius: 10px; padding: 15px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.05) 0%, rgba(0, 0, 0, 0.05) 100%);">
+<div align="center" style="border: 2px solid #87CEEB; border-radius: 10px; padding: 15px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.05) 0%, rgba(0, 0, 0, 0.05) 100%);">
 
 <div align="center">
   <sub>⭐ Star this repository if you found it helpful!</sub>
