@@ -15,7 +15,7 @@
 ## 🌍 Choose Your Language / اختر لغتك / Choisissez Votre Langue
 
 <div align="center" style="margin: 30px 0;">
-  <a href="README_EN.md" style="text-decoration: none; margin: 10px;">
+  <a href="README.md" style="text-decoration: none; margin: 10px;">
     <img src="https://img.shields.io/badge/English-007ACC?style=for-the-badge&logo=language&logoColor=white" alt="English" />
   </a>
   <a href="README_AR.md" style="text-decoration: none; margin: 10px;">
