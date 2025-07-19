@@ -1,62 +1,44 @@
-<div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
-
-# 👋 Hello World! I'm Amine El Hassak
+# 👋 مرحباً بالعالم! أنا أمين الحساك
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=مطور+ويب+متكامل;حلال+مشاكل;مهووس+بالتقنية;مساهم+في+المصادر+المفتوحة" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amineelhassak&label=Profile%20views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-
-## 🌍 Choose Your Language / اختر لغتك / Choisissez Votre Langue
-
-<div align="center" style="margin: 30px 0;">
-  <a href="README_EN.md" style="text-decoration: none; margin: 10px;">
-    <img src="https://img.shields.io/badge/English-007ACC?style=for-the-badge&logo=language&logoColor=white" alt="English" />
-  </a>
-  <a href="README_AR.md" style="text-decoration: none; margin: 10px;">
-    <img src="https://img.shields.io/badge/Arabic-006C47?style=for-the-badge&logo=language&logoColor=white" alt="Arabic" />
-  </a>
-  <a href="README_FR.md" style="text-decoration: none; margin: 10px;">
-    <img src="https://img.shields.io/badge/French-ED2939?style=for-the-badge&logo=language&logoColor=white" alt="French" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=amineelhassak&label=مشاهدات+الملف+الشخصي&color=00D4FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
-## 🎓 About Me
+## 🎓 من أنا
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amineelhassak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" alt="GitHub Stats" />
 </div>
 
-I'm a passionate **Full Stack Developer** with a strong foundation in **Computer Science** and **Mathematics**. I hold a **Bachelor's degree in Mathematics and Computer Science (SMI)** from **[Sidi Mohamed Ben Abdellah University](https://www.usmba.ac.ma/)** in Fez, Morocco, and I graduated from **[1337](https://1337.ma/)**, part of the prestigious **[42 Network](https://42.fr/)**, where I specialized in **Science, Mathematics, and Computer Science**.
+أنا **مطور ويب متكامل** شغوف بأساس قوي في **علوم الحاسوب** و **الرياضيات**. أملك **شهادة بكالوريوس في الرياضيات والمعلوميات (SMI)** من **[جامعة سيدي محمد بن عبد الله](https://www.usmba.ac.ma/)** في فاس، المغرب، وتخرجت من **[1337](https://1337.ma/)**، جزء من شبكة **[42](https://42.fr/)** المرموقة، حيث تخصصت في **العلوم والرياضيات وعلوم الحاسوب**.
 
-### 🎓 Academic Background
-- **Bachelor's Degree in SMI** - Mathematics and Computer Science
-  - **University**: Sidi Mohamed Ben Abdellah University, Fez
-  - **Specialization**: Applied Mathematics, Computer Science, and Information Technology
-  - **Key Subjects**: Advanced Mathematics, Programming, Algorithms, Database Systems, Software Engineering
+### 🎓 الخلفية الأكاديمية
+- **شهادة البكالوريوس في SMI** - الرياضيات والمعلوميات
+  - **الجامعة**: جامعة سيدي محمد بن عبد الله، فاس
+  - **التخصص**: الرياضيات التطبيقية، علوم الحاسوب، وتكنولوجيا المعلومات
+  - **المواد الأساسية**: الرياضيات المتقدمة، البرمجة، الخوارزميات، أنظمة قواعد البيانات، هندسة البرمجيات
 
-- **1337 School** - Part of the 42 Network
-  - **Institution**: 1337 (42 Network)
-  - **Program**: Peer-to-Peer Learning in Computer Science
-  - **Specialization**: Software Engineering, System Administration, and Algorithm Development
-  - **Key Projects**: C Programming, Shell Scripting, Network Programming, Web Development
-  - **Learning Method**: Project-based learning with peer evaluation
+- **مدرسة 1337** - جزء من شبكة 42
+  - **المؤسسة**: 1337 (شبكة 42)
+  - **البرنامج**: التعلم من نظير إلى نظير في علوم الحاسوب
+  - **التخصص**: هندسة البرمجيات، إدارة الأنظمة، وتطوير الخوارزميات
+  - **المشاريع الأساسية**: برمجة C، برمجة Shell، برمجة الشبكات، تطوير الويب
+  - **طريقة التعلم**: التعلم القائم على المشاريع مع التقييم من الأقران
 
-### 🚀 What I Do
-- **Full Stack Development** - Building complete web applications from frontend to backend
-- **Problem Solving** - Tackling complex algorithmic challenges with efficient solutions
-- **System Architecture** - Designing scalable and maintainable software systems
-- **Database Design** - Creating robust data models and optimizing queries
-- **Mathematical Modeling** - Applying mathematical concepts to solve real-world problems
+### 🚀 ما أفعله
+- **تطوير الويب المتكامل** - بناء تطبيقات ويب كاملة من الواجهة الأمامية إلى الخلفية
+- **حل المشاكل** - مواجهة التحديات الخوارزمية المعقدة بحلول فعالة
+- **هندسة الأنظمة** - تصميم أنظمة برمجية قابلة للتطوير والصيانة
+- **تصميم قواعد البيانات** - إنشاء نماذج بيانات قوية وتحسين الاستعلامات
+- **النمذجة الرياضية** - تطبيق المفاهيم الرياضية لحل مشاكل العالم الحقيقي
 
 </div>
 
@@ -64,7 +46,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 <div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
-## 🌐 Let's Connect
+## 🌐 تواصل معي
 
 <div align="center">
   <a href="https://twitter.com/mathbib40755h" target="_blank">
@@ -87,9 +69,9 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 <div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ التقنيات والأدوات
 
-### 💻 Programming Languages
+### 💻 لغات البرمجة
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -99,21 +81,21 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </div>
 
-### 🌐 Frontend Development
+### 🌐 تطوير الواجهة الأمامية
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 </div>
 
-### 🔧 Backend & Frameworks
+### 🔧 الخلفية والأطر
 <div align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </div>
 
-### 🗄️ Databases
+### 🗄️ قواعد البيانات
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -122,7 +104,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
   <img src="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </div>
 
-### 🐳 DevOps & Tools
+### 🐳 DevOps والأدوات
 <div align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
@@ -132,7 +114,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
-### 🔧 Others & Tools
+### 🔧 أدوات أخرى
 <div align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
@@ -151,7 +133,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 <div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
-## 📊 GitHub Statistics
+## 📊 إحصائيات GitHub
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amineelhassak&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak" />
@@ -167,7 +149,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 <div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
-## 🏆 GitHub Trophies
+## 🏆 جوائز GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amineelhassak&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
@@ -179,7 +161,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 <div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
-## 📈 Contribution Graph
+## 📈 رسم بياني للمساهمات
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amineelhassak&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF" alt="Contribution Graph" />
@@ -191,14 +173,14 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 <div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
-## 🎯 Current Focus
+## 🎯 التركيز الحالي
 
-- 🔥 **Full Stack Development** - Building modern web applications
-- 🚀 **Performance Optimization** - Making applications faster and more efficient
-- 🔒 **Security Best Practices** - Implementing secure coding standards
-- 📱 **Responsive Design** - Creating mobile-first user experiences
-- 📊 **Data Science & Analytics** - Leveraging mathematical background for data-driven solutions
-- 🧮 **Algorithm Optimization** - Applying mathematical concepts to improve code efficiency
+- 🔥 **تطوير الويب المتكامل** - بناء تطبيقات ويب حديثة
+- 🚀 **تحسين الأداء** - جعل التطبيقات أسرع وأكثر كفاءة
+- 🔒 **أفضل ممارسات الأمان** - تطبيق معايير البرمجة الآمنة
+- 📱 **التصميم المتجاوب** - إنشاء تجارب مستخدم تركز على الهاتف المحمول
+- 📊 **علم البيانات والتحليلات** - الاستفادة من الخلفية الرياضية للحلول القائمة على البيانات
+- 🧮 **تحسين الخوارزميات** - تطبيق المفاهيم الرياضية لتحسين كفاءة الكود
 
 </div>
 
@@ -206,14 +188,14 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 <div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
-## 💡 Fun Facts
+## 💡 حقائق ممتعة
 
-- 🎓 **Dual Education**: Graduated from both **SMI** (Mathematics & Computer Science) and **1337** (42 Network)
-- 🏛️ **University**: Sidi Mohamed Ben Abdellah University, Fez - Morocco
-- 🌍 Passionate about **open source** contributions
-- 🧠 Love solving **complex algorithmic problems**
-- 📊 **Mathematical Background**: Strong foundation in applied mathematics and computer science
-- ☕ Coffee addict ☕
+- 🎓 **تعليم مزدوج**: تخرجت من كل من **SMI** (الرياضيات والمعلوميات) و **1337** (42 Network)
+- 🏛️ **الجامعة**: جامعة سيدي محمد بن عبد الله، فاس - المغرب
+- 🌍 شغوف بالمساهمات في **المصادر المفتوحة**
+- 🧠 أحب حل **المشاكل الخوارزمية المعقدة**
+- 📊 **خلفية رياضية**: أساس قوي في الرياضيات التطبيقية وعلوم الحاسوب
+- ☕ مدمن قهوة ☕
 
 </div>
 
@@ -232,10 +214,10 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 <div align="center" style="border: 3px solid #00D4FF; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 <div align="center">
-  <h3>🤝 Open to Collaborations</h3>
-  <p>I'm always excited to work on interesting projects and collaborate with fellow developers!</p>
+  <h3>🤝 مفتوح للتعاون</h3>
+  <p>أنا متحمس دائماً للعمل على مشاريع مثيرة والتعاون مع المطورين الآخرين!</p>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Collaboration Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=دعنا+نبني+شيئاً+مذهلاً+معاً!+%F0%9F%9A%80" alt="Collaboration Message" />
 </div>
 
 </div>
@@ -245,7 +227,21 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 <div align="center" style="border: 2px solid #00D4FF; border-radius: 10px; padding: 15px; margin: 20px 0; background: linear-gradient(135deg, rgba(0, 212, 255, 0.05) 0%, rgba(0, 0, 0, 0.05) 100%);">
 
 <div align="center">
-  <sub>⭐ Star this repository if you found it helpful!</sub>
+  <sub>⭐ امنح نجمة لهذا المستودع إذا وجدته مفيداً!</sub>
 </div>
 
+</div>
+
+---
+
+<div align="center" style="margin: 20px 0;">
+  <a href="README.md" style="text-decoration: none; margin: 10px;">
+    <img src="https://img.shields.io/badge/English-007ACC?style=for-the-badge&logo=language&logoColor=white" alt="English" />
+  </a>
+  <a href="README_AR.md" style="text-decoration: none; margin: 10px;">
+    <img src="https://img.shields.io/badge/Arabic-006C47?style=for-the-badge&logo=language&logoColor=white" alt="Arabic" />
+  </a>
+  <a href="README_FR.md" style="text-decoration: none; margin: 10px;">
+    <img src="https://img.shields.io/badge/French-ED2939?style=for-the-badge&logo=language&logoColor=white" alt="French" />
+  </a>
 </div> 
