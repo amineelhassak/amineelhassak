@@ -196,23 +196,6 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Computer
 
 </div>
 
----
-
-<div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
-
-## 🎯 Current Focus
-
-- 🔥 **Full Stack Development** - Building modern web applications
-- 🚀 **Performance Optimization** - Making applications faster and more efficient
-- 🔒 **Security Best Practices** - Implementing secure coding standards
-- 📱 **Responsive Design** - Creating mobile-first user experiences
-- 📊 **Data Science & Analytics** - Leveraging mathematical background for data-driven solutions
-- 🧮 **Algorithm Optimization** - Applying mathematical concepts to improve code efficiency
-
-</div>
-
----
-
 <div align="center" style="border: 3px solid #87CEEB; border-radius: 15px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(135, 206, 235, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
 ## 🚀 1337 School Projects
