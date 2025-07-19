@@ -38,31 +38,6 @@
 
 I'm a passionate **Full Stack Developer** with a strong foundation in **Computer Science** and **Mathematics**. I hold a **Bachelor's degree in Mathematics and Computer Science (SMI)** from **[Sidi Mohamed Ben Abdellah University](https://www.usmba.ac.ma/)** in Fez, Morocco, and I graduated from **[1337](https://1337.ma/)**, part of the prestigious **[42 Network](https://42.fr/)**, where I specialized in **Science, Mathematics, and Computer Science**.
 
-### 🎓 Academic Background
-- **Bachelor's Degree in SMI** - Mathematics and Computer Science
-  - **University**: Sidi Mohamed Ben Abdellah University, Fez
-  - **Specialization**: Applied Mathematics, Computer Science, and Information Technology
-  - **Key Subjects**: Advanced Mathematics, Programming, Algorithms, Database Systems, Software Engineering
-
-- **1337 School** - Part of the 42 Network
-  - **Institution**: 1337 (42 Network)
-  - **Program**: Peer-to-Peer Learning in Computer Science
-  - **Specialization**: Software Engineering, System Administration, and Algorithm Development
-  - **Key Projects**: 
-    - **Born2beroot** (125/125) - Linux system administration and virtualization
-    - **CPP Modules 00-09** (100/100 each) - C++ programming fundamentals
-    - **Libft** (125/125) - Custom C library implementation
-    - **NetPractice** (100/100) - Network configuration and protocols
-    - **Philosophers** (125/125) - Multi-threading and synchronization
-    - **cub3d** (125/125) - 3D graphics engine using raycasting
-    - **ft_printf** (100/100) - Custom printf implementation
-    - **get_next_line** (125/125) - File reading and memory management
-    - **minishell** (120/125) - Shell implementation with command parsing
-    - **minitalk** (125/125) - Inter-process communication using signals
-    - **push_swap** (125/125) - Algorithm optimization and sorting
-    - **so_long** (125/125) - 2D game development with pathfinding
-  - **Learning Method**: Project-based learning with peer evaluation
-
 ### 🚀 What I Do
 - **Full Stack Development** - Building complete web applications from frontend to backend
 - **Problem Solving** - Tackling complex algorithmic challenges with efficient solutions
