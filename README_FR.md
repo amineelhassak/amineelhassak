@@ -91,6 +91,8 @@ Je suis un **Développeur Full Stack** passionné avec une solide base en **Info
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/make-%23FF6C37.svg?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
 </div>
 
 ### 🌐 Développement Frontend
@@ -124,6 +126,10 @@ Je suis un **Développeur Full Stack** passionné avec une solide base en **Info
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/vmware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
 </div>
 
 ### 🔧 Autres Outils
@@ -134,9 +140,25 @@ Je suis un **Développeur Full Stack** passionné avec une solide base en **Info
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/valgrind-%23007ACC.svg?style=for-the-badge&logo=valgrind&logoColor=white" alt="Valgrind" />
+  <img src="https://img.shields.io/badge/gdb-%23007ACC.svg?style=for-the-badge&logo=gdb&logoColor=white" alt="GDB" />
+</div>
+
+### 🎯 Technologies École 1337
+<div align="center">
+  <img src="https://img.shields.io/badge/raycasting-%23000000.svg?style=for-the-badge&logo=raycasting&logoColor=white" alt="Raycasting" />
+  <img src="https://img.shields.io/badge/multithreading-%23007ACC.svg?style=for-the-badge&logo=multithreading&logoColor=white" alt="Multi-threading" />
+  <img src="https://img.shields.io/badge/signals-%23007ACC.svg?style=for-the-badge&logo=signals&logoColor=white" alt="UNIX Signals" />
+  <img src="https://img.shields.io/badge/pipes-%23007ACC.svg?style=for-the-badge&logo=pipes&logoColor=white" alt="Pipes" />
+  <img src="https://img.shields.io/badge/memory_management-%23007ACC.svg?style=for-the-badge&logo=memory&logoColor=white" alt="Memory Management" />
+  <img src="https://img.shields.io/badge/algorithm_optimization-%23007ACC.svg?style=for-the-badge&logo=algorithm&logoColor=white" alt="Algorithm Optimization" />
+  <img src="https://img.shields.io/badge/pathfinding-%23007ACC.svg?style=for-the-badge&logo=pathfinding&logoColor=white" alt="Pathfinding" />
+  <img src="https://img.shields.io/badge/synchronization-%23007ACC.svg?style=for-the-badge&logo=sync&logoColor=white" alt="Synchronization" />
+  <img src="https://img.shields.io/badge/network_protocols-%23007ACC.svg?style=for-the-badge&logo=network&logoColor=white" alt="Network Protocols" />
+  <img src="https://img.shields.io/badge/system_administration-%23007ACC.svg?style=for-the-badge&logo=admin&logoColor=white" alt="System Administration" />
 </div>
 
 </div>
